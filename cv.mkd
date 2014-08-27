@@ -23,9 +23,14 @@ Solteiro, 29 anos, Brasileiro, Analista de Sistemas, 8 anos de experiência
  * **Framewoks**: Symfony2, Doctrine2, Twig, ZendFramework2, Django, JSF2, SpringMVC
  * **Banco de Dados**: Oracle (PL/SQL), Postgresql (PG/SQL), MySQL, MongoDB
  * **Técnicas e Metodologias**: SCRUM, UML, Orientação a Objetos, S.O.L.I.D, WebServices
-
+ * **Sistemas Operacionais**: Linux (8 anos), MacOSx e Windows
 # Formação Acadêmica
  * Análise e Desenvolvimento de Sistemas pela Estácio de Sá (2014)
+
+# Cursos
+
+* SQL Fundamentos Oracle 11g - Oracle Academy - UBM
+* http://www.aprendapython.com.br
 
 # Experiência Profissional
 ## Unimed Volta Redonda
