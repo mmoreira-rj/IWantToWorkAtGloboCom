@@ -1,19 +1,74 @@
-Vaga
+Vagas
 ====
 
-[Preencha aqui a vaga que você pretende]
-
-__Dicas:__
-* Escolher uma ou mais vagas disponíveis é importante. Se você não escolher uma vaga, é provável que ninguém olhe pro seu CV.
+ * Produtos Globo.com
+ * Área de Jornalismo
+ * Área de Esporte
+ * Plataforma de Interatividades
 
 CV
-==
+===
 
-[Preencha aqui o seu cv]
+# Márcio Camargo Moreira
+Solteiro, 29 anos, Brasileiro, Analista de Sistemas, 8 anos de experiência
 
-__Dicas:__
-* Coloque o seu CV aqui, __não coloque só um link para um site externo tipo LinkedIn e about.me__. Você pode até colocar o seu linkedin, mas como uma informação a mais no seu CV.
-* Obedeça a formatação do markdown do GitHub. Isso deixa a leitura do seu currículo mais agradável, e provavelmente mais pessoas da Globo.com irão lê-lo.
-	* [Markdown syntax guide] (http://daringfireball.net/projects/markdown/syntax)
-	* [GitHub Flavored Markdown] (http://github.github.com/github-flavored-markdown/)
-	* Pressione M enquanto lê o README.mkd no projeto [IWantToWorkAtGloboCom] (http://github.com/globocom/IWantToWorkAtGloboCom), para ver o cheat-sheet
+## Contatos
+* **E-mail**: marcio@marciomoreira.net
+* **skype**: mmoreira-rj
+* **Celular/Whatsapp**: (24) 99283-7820
+
+# Especialidades e Qualificações
+
+ * **Programação**: PHP5, Python, Java
+ * **Framewoks**: Symfony2, Doctrine2, Twig, ZendFramework2, Django, JSF2, SpringMVC
+ * **Banco de Dados**: Oracle (PL/SQL), Postgresql (PG/SQL), MySQL, MongoDB
+ * **Técnicas e Metodologias**: SCRUM, UML, Orientação a Objetos, S.O.L.I.D, WebServices
+
+# Formação Acadêmica
+ * Análise e Desenvolvimento de Sistemas pela Estácio de Sá (2014)
+
+# Experiência Profissional
+## Unimed Volta Redonda
+### 12/2012 - Atual - Analista de Sistemas
+
+Manutenção Sistema UNICCO (TOTVS), Desenvolvimento WEB (Intranet) e Arquiteto de Software
+Técnicas e Metodologias: Oracle (Pl/SQL), PHP5, Symfony2, Doctrine2, SCRUM
+
+## CTIS Tecnologia S/A - Ministério da Saúde - DATASUS/RJ
+### 07/2011 a 12/2012 - Analista de Sistemas Pleno
+Manutenção Sistema VisualHospub e Migração do sistema para Plataforma ZendFramework,
+implantação do sistema nas UPAs e Hospitais (Município e Estado)
+Técnicas e Metodologias: PHP5, ZendFramework, PostgreSQL, PropelORM
+
+## Editora Brasil Energia
+### 07/2010 a 07/2011 - Analista Programador Pleno
+Desenvolvimento ERP e CRM de Editora de Revistas - Módulos: Financeiro, Assinatura, Venda,
+Distribuição.
+Técnicas e Metodologias: PHP5, Smarty,PostgreSQL, Propel
+
+## CTIS Tecnologia S/A - Ministério da Saúde - DATASUS/RJ
+### 07/2008 a 06/2010 - Analista de Sistemas Junior
+Manutenção e Migração do Sistema REDOME(Registro de Doadores de Medúla Ossea) Desktop para
+Web. Manutenção Sistema Desktop (JAVA) de transmissão de arquivos do Ministério da Saúde.
+Técnicas e Metodologias: PHP5, Oracle (Pl/SQL), Java
+
+# Trabalhos externos
+
+## Sistema de Agendamento Médico (Em Andamento)
+**Tecnologia**: Django/Python, bootstrap3, mysql
+
+## Módulo de Internação Sistema VisualHospub (Rondônia - RO)
+**Tecnologia**: PHP5, PropelORM, PostgreSQL
+
+# Informações Adicionais
+* Apaixonado por Tecnologia e Desenvolvimento
+* Boa Apresentação;
+* Facilidade de Comunicação;
+* Disponibilidade de Horário/Viagens;
+* Pró-atividade;
+
+
+
+
+
+
